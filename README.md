@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm MooneY
 
-### 🚀 Full Stack Developer (Frontend & Backend) | 🎨 Creative Coder | 🤖 AI Enthusiast
+### 🚀 Full Stack Developer | 🎨 Creative Coder | 🤖 AI Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MooneY)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mooney@example.com)
@@ -15,7 +15,7 @@
 ## 🎯 About Me
 
 ```typescript
-const developer = {
+const Me = {
   name: "MooneY",
   role: "Full Stack Developer",
   passions: ["Web Development", "AI", "Open Source"],
@@ -25,7 +25,7 @@ const developer = {
 };
 ```
 
-I'm a passionate Full Stack Developer who enjoys building both frontend and backend solutions. With expertise in creating scalable web applications and a curiosity for emerging technologies like AI, I'm always eager to tackle new challenges and bring ideas to life.
+I'm a Full Stack Developer who enjoys building both frontend and backend solutions. With expertise in creating scalable web applications and a curiosity for emerging technologies like AI, I'm always eager to tackle new challenges and bring ideas to life.
 
 ---
 
